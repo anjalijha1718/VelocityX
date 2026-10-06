@@ -4,6 +4,9 @@
 > Inspired by **ItzFizz** (`https://paraschaturvedi.github.io/car-scroll-animation`)  
 > Engineered with **React 19**, **GSAP 3.12 (ScrollTrigger)**, **Tailwind CSS v4**, and the **Web Audio API**.
 
+🚀 **Live Deployment:** [https://anjalijha1718.github.io/VelocityX/](https://anjalijha1718.github.io/VelocityX/)  
+⭐ **Repository:** [https://github.com/anjalijha1718/VelocityX](https://github.com/anjalijha1718/VelocityX)
+
 ---
 
 ## 🌟 Executive Summary & Project Name

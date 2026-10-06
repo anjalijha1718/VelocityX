@@ -3,6 +3,7 @@ import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import { Gauge, ArrowDown, Sparkles, TrendingUp, PhoneCall, Zap, Award, Compass, Play, RotateCcw } from 'lucide-react'
 import { engineSynth } from '../utils/engineAudio'
+import carImage from '../assets/car.png'
 
 gsap.registerPlugin(ScrollTrigger)
 
@@ -527,7 +528,7 @@ export default function HeroSection({
 
               {/* Car Body PNG */}
               <img
-                src="/car.png"
+                src={carImage}
                 alt="McLaren 720S Top View"
                 className="w-full object-contain filter drop-shadow-[0_15px_15px_rgba(0,0,0,0.85)]"
                 style={{
